@@ -1,0 +1,6 @@
+@import url("./lib/jquery.jgrowl.css");
+
+/* Messages */
+.lms-message-success  {background-color: green !important;}
+.lms-message-error  {background-color: brown !important;}
+.lms-message-info  {background-color: black !important;}

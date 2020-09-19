@@ -1,0 +1,10 @@
+Changelog for Learning Management System
+
+
+1.0.0-alpha
+==========
+- First alpha
+
+1.0.0-beta
+==========
+- First beta

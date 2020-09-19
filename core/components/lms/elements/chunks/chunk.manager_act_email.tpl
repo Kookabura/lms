@@ -1,0 +1,1 @@
+<p>Студент <b>[[+name:default=`[[+username]]`]]</b> завершил курс <b>[[+course]]</b> с результатом <b>[[+result]]</b></p>
